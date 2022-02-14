@@ -1,0 +1,3 @@
+Program binary searching adalah dengan membagi dua elemen larik pada elemen tengah. Elemen tengah adalah elemen dengan indeks tengah = ( awal + akkhir ) / 2 .
+Kemudian program akan memeriksa apakah data[tengah]=cari. Jika data[tengah]=cari maka pencarian selesai, karena cari sudah ditemukan dan syarat perulangan dari WHILE sudah tidak terpenuhi. Jika tidak ditemukan, maka harus ditentukan apakah pencarian akan dilakukan di larik bagian kiri atau di bagian kanan.
+Jika data[tengah]<cari maka pencarian akan dilakukan dibagian kiri, dan sebaliknya jika data[tengah]>cari, maka pencarian akan dilakukan dari sebelah kanan. Ulangi langkah 1 hingga cari ditemukan atau i>n atau larik sudah = nol.
