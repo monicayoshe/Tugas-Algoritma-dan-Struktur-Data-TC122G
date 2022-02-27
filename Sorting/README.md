@@ -23,7 +23,7 @@
     <br>↳  Nilai dari i dimulai dari 1 ke n, yang dimana n merupakan jumlah total elemen dikurangi satu.
     
     
-[- CHALLENGE NIM GENAP! (672021032)](https://github.com/monicayoshe/Tugas-Algoritma-dan-Struktur-Data-TC122G/blob/main/Sorting/Challenge_672021032.c)
+- [CHALLENGE NIM GENAP! (672021032)](https://github.com/monicayoshe/Tugas-Algoritma-dan-Struktur-Data-TC122G/blob/main/Sorting/Challenge_672021032.c)
 <br> ![TEST CASE Challenge](https://user-images.githubusercontent.com/99154617/155891726-85fffa4d-447d-48d2-904c-59f1671bfdd0.PNG)
  1. Analogi algoritma Selection Sort (ascending) :
     <br>↳  Memulai pengecekan data dari data ke 1 hingga data ke n.
